@@ -1,3 +1,6 @@
 [submodule "azo234-np2kai-x11-sdl2"]
 	path = azo234-np2kai-x11-sdl2
 	url = https://github.com/mrniceguy127/azo234-np2kai-x11-sdl2
+[submodule "xnp2kai-azo234"]
+	path = xnp2kai-azo234
+	url = https://github.com/mrniceguy127/xnp2kai-azo234.git
